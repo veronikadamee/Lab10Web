@@ -1,8 +1,8 @@
 # Lab10Web 
 OOP (Object-oriented programming)
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Rustiani Dame Sihombing
+###### NIM : 312010325
 ###### Kelas : TI.A.2
 
 ## Tugas PHP
@@ -49,7 +49,6 @@ output
 
 ![](img/7%20tujuh.jpg)
 
-###### done
 
 
 
